@@ -23,7 +23,7 @@ A task management application with user authentication, full CRUD functionality,
 
 ---
 
-## ⚙Getting Started
+## Getting Started
 
 1. Clone the repo:
 
