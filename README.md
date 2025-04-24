@@ -1,20 +1,20 @@
-# 📝 Task Management App
+# Task Management App
 
 A task management application with user authentication, full CRUD functionality, form validation, and automated testing using Vitest and Cypress.
 
 ---
 
-## 🚀 Features
+## Features
 
-- 🔐 User Authentication (Login)
-- 🧾 Task Management (Create, Read, Update, Delete)
-- ✅ Form Validation with Formik & Yup
-- 🧪 Unit Testing with Vitest
-- 🌐 End-to-End Testing with Cypress
+- User Authentication (Login)
+- Task Management (Create, Get, Update, Delete)
+- Form Validation with Formik & Yup
+- Unit Testing with Vitest
+- End-to-End Testing with Cypress
 
 ---
 
-## 🧱 Tech Stack
+## Tech Stack
 
 - **Frontend**: React + TypeScript + Vite
 - **UI**: TailwindCSS
@@ -23,7 +23,7 @@ A task management application with user authentication, full CRUD functionality,
 
 ---
 
-## ⚙️ Getting Started
+## ⚙Getting Started
 
 1. Clone the repo:
 
@@ -41,7 +41,7 @@ npm install
 3. Start development server:
 
 ```bash
-npm run 
+npm run server
 npm run dev
 ```
 
@@ -59,28 +59,28 @@ npx cypress open
 
 ---
 
-## 🧠 Key Architectural Decisions
+## Key Architectural Decisions
 
-- ✅ Vite for fast dev and build performance
-- ✅ React + TypeScript for scalability
-- ✅ Formik & Yup for form handling and validation
-- ✅ Vitest for fast unit testing
-- ✅ Cypress for real-world scenario E2E testing
-- ✅ Modular structure: Auth, Tasks, Shared UI
+- Vite for fast dev and build performance
+- React + TypeScript for scalability
+- Formik & Yup for form handling and validation
+- Vitest for fast unit testing
+- Cypress for real-world scenario E2E testing
+- Modular structure: Auth, Tasks, UI
 
 ---
 
-## 🧪 Test Coverage
+## Test Coverage
 
 | Component     | Coverage |
 |---------------|----------|
-| Auth          | ✅ >90%   |
-| Tasks         | ✅ >90%   |
-| UI Components | ✅ >90%   |
+| Auth          |  >90%   |
+| Tasks         |  >90%   |
+| UI Components |  >90%   |
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 Task-Management-App/
@@ -113,14 +113,14 @@ Task-Management-App/
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 - **GitHub**: [dkjupiter](https://github.com/dkjupiter)
 - **Auther**: 65050327 Dararat Keawngam 
 
 ---
 
-## 📜 License
+## License
 
 This project is for educational purposes under the Cooperative Education Program.
 
