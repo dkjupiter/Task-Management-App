@@ -40,8 +40,12 @@ npm install
 
 3. Start development server:
 
+//terminal 1
 ```bash
 npm run server
+```
+//terminal 2
+```bash
 npm run dev
 ```
 
