@@ -54,6 +54,10 @@ npm run dev
 ```bash
 npm run test
 ```
+// Run Coverage
+```bash
+npm run coverage
+```
 
 5. Run Cypress E2E tests:
 
